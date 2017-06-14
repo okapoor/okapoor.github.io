@@ -1,0 +1,33 @@
+<style type="text/css">
+		h1 {
+			background-color: #AFEEEE;
+			color: black;
+			text-align: center;
+			border-style: solid;
+			margin: 10px;
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+		p {
+			width: 60%;
+		}
+		div {
+			background-color: orange;
+			padding-bottom: 100px;
+		}
+		img {
+			float: left;
+		}
+		li:nth-of-type(odd) {
+			background-color: orange;
+			font-weight: inherit;
+		}
+		#bio {
+		}
+		#info {
+			background-color: pink;
+			float: right;
+			width: 40%;
+		}
+
+	</style>
